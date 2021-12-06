@@ -10,7 +10,7 @@
 /*-- Main structural styling--*/
 
 body {
-    background: #f7f7f7;
+    background: wheat;
     color: #333333;
     font-family: warnock-pro-display, serif;
 }
@@ -33,7 +33,7 @@ section, header {
 }
 
 .street {
-    background: #87460D;
+    background: navy;
     padding: 3em 0;
 }
 
@@ -47,7 +47,7 @@ section, header {
 /*-- Styling typography --*/
 
 h1, h2, blockquote {
-    color: #87460D;
+    color: blue;
 }
 
 p, blockquote, h1 {
