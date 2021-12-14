@@ -80,7 +80,7 @@ blockquote {
 
 cite {
     font-size: 0.8em;
-    color: #333333;
+    color: #8b1b1b;
     font-style: normal;
 }
 
@@ -119,13 +119,13 @@ header p {
     font-size: 6rem;
     padding-right: .05em;
     line-height: .5;
-    color: #87460D;}
+    color: #275039;}
 
 p {font-family: mr-eaves-sans, sans-serif;}
 
 /*-- Styling links --*/
 a {
-    color: #87460D;
+    color: #870d68;
     text-decoration: none
 }
 
