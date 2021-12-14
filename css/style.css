@@ -28,12 +28,12 @@ section, header {
 }
 
 .market {
-    background: #D8C385;
+    background: #fdfdfd;
     padding: 3em 0;
 }
 
 .street {
-    background: navy;
+    background: rgb(2, 2, 48);
     padding: 3em 0;
 }
 
