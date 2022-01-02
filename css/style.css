@@ -12,8 +12,7 @@
 body {
     background: #BFB99B;
     color: #333333;
-    font-family: warnock-pro-display, serif;
-}
+    font-family: abril-fatface, serif;
 
 section, header {
     width: 80%;
@@ -80,7 +79,7 @@ blockquote {
 
 cite {
     font-size: 0.8em;
-    color: #8b1b1b;
+    color: black;
     font-style: normal;
 }
 
