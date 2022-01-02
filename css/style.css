@@ -33,7 +33,7 @@ section, header {
 }
 
 .street {
-    background: rgb(2, 2, 48);
+    background: black;
     padding: 3em 0;
 }
 
@@ -130,7 +130,7 @@ a {
 }
 
 a:hover {
-    color: rgb(115, 133, 0);
+    color: black;
     border-bottom: 1px dotted;
 }
 
