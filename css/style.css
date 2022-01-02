@@ -10,7 +10,7 @@
 /*-- Main structural styling--*/
 
 body {
-    background: wheat;
+    background: #BFB99B;
     color: #333333;
     font-family: warnock-pro-display, serif;
 }
@@ -142,7 +142,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: #87460D;
+    background: #D95F69;
     padding: 2em 0;
     font-size: 0.75rem;
 }
