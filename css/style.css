@@ -117,10 +117,10 @@ header p {
 .dropcap {
     font-family: warnock-pro-display, serif;
     float: left;
-    font-size: 6rem;
+    font-size: 5rem;
     padding-right: .05em;
     line-height: .5;
-    color: #275039;}
+    color: #D95F69;}
 
 p {font-family: mr-eaves-sans, sans-serif;}
 
