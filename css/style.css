@@ -12,13 +12,14 @@
 body {
     background: #BFB99B;
     color: #333333;
-    font-family: abril-fatface, serif;
+    font-family: warnock-pro-display, serif;
+}
 
-    section, header {
-        width: 80%;
-        max-width: 700px;
-        margin: auto;
-    }
+section, header {
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+}
 
 
 
