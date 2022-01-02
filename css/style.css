@@ -12,8 +12,9 @@
 body {
     background: #BFB99B;
     color: #333333;
-    font-family: warnock-pro-display, serif;
-}
+    font-family: Arial, Helvetica, sans-serif}
+    
+
 
 section, header {
     width: 80%;
