@@ -29,7 +29,7 @@ section, header {
 }
 
 .market {
-    background: black;
+    background: white;
     padding: 3em 0;
 }
 
@@ -41,7 +41,8 @@ section, header {
 .gridimage {
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); 
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    object-fit: cover;
 }
 
 
