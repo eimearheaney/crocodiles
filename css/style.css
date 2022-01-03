@@ -161,14 +161,14 @@ nav a {
 
 nav a:hover {
     border-bottom: none;
-    color: rgb(255, 187, 127);
+    color: #F29544;
     transition: all 0.3s ease-in-out
 }
 
 hr {
     margin: 100px 0;
     height: 1px;
-    background-color: #87460D;
+    background-color: black;
     color: #87460D;
     border: 0 none;
 }
