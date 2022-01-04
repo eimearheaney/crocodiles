@@ -50,11 +50,13 @@ section, header {
 
 h1, h2, blockquote {
     color: black;
+    font-family:'Merriweather', serif;
 }
 
 p, blockquote, h1 {
     margin-bottom: 1.5rem;
     line-height: 1.4;
+    font-family:'Merriweather', serif;
 }
 
 h1 {
@@ -71,6 +73,7 @@ h1 {
 h2 {
     font-size: 1.999rem;
     margin: 3em 0 1em 0;
+    font-family:'Merriweather', serif;
 }
 
 blockquote {
