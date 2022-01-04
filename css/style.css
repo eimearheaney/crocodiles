@@ -46,8 +46,8 @@ section, header {
 }
 
 .container {
-    width: 800px;
-    height: 720px;
+    width: 1100px;
+    height: auto;
     text-align: center;
 }
 
